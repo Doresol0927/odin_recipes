@@ -1,0 +1,30 @@
+body {
+    background-color: #eaf1df;
+}
+
+h1 {
+    font-family: Verdana, sans-serif;
+    text-align: center;
+}
+
+img {
+    margin: auto;
+    display: block;
+}
+
+h3 {
+    font-family: Veranda, sans-serif;
+    font-size: 32px;
+}
+
+p {
+    font-size: 24px;
+}
+
+ul {
+    font-size: 24px;
+}
+
+ol {
+    font-size: 24px;
+}
